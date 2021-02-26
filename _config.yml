@@ -15,9 +15,9 @@ theme_settings :
     username : YongGeun YOON
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2021-02-26
+        end : 2021-02-28
+        experience : NamoWebiz, Inc., title
     skills :
       - skill : HTML5 & CSS
         value : 85  # Percent value
@@ -26,14 +26,14 @@ theme_settings :
   icons :
     email:  # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL
-    github: naye0ng
+    github: YGYoon71
     gitlab:
     bitbucket:
     google_plus:
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: https://www.instagram.com/yoonyonggeun/
 
   # Disqus
   disqus_shortname :
