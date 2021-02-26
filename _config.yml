@@ -6,17 +6,17 @@ url : "https://YGYoon71.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : DO8's GitHub BLOG
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
     username : YongGeun YOON
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : 디지털트윈 시스템이란 현실세계의 사물을 가상현실로 복제하여 현실에서 발생하는 상황을 가상현실에서 모니터링하고, 가상현실에서 다양한 환경 변수에 의한 실험을 통해 현실 세계에서 사물에 일어날 수 있는 변화를 예측하여 가상현실로부터 현실 세계의 사물을 제어하는 시스템.
     experience :
-      - start : 2021-02-26
-        end : 2021-02-28
+      - start : 2017-08
+        end : ...ing
         experience : NamoWebiz, Inc., title
     skills :
       - skill : HTML5 & CSS
@@ -24,7 +24,7 @@ theme_settings :
 
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  ygyoon@gmail.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL
     github: YGYoon71
     gitlab:
@@ -32,11 +32,11 @@ theme_settings :
     google_plus:
     twitter:
     youtube:
-    facebook:
+    facebook: yonggeuny
     instagram: yoonyonggeun
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname :do8
 
 # Pagination
 paginate: 5
