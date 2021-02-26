@@ -33,7 +33,7 @@ theme_settings :
     twitter:
     youtube:
     facebook:
-    instagram: https://www.instagram.com/yoonyonggeun/
+    instagram: yoonyonggeun
 
   # Disqus
   disqus_shortname :
